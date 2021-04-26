@@ -1,1 +1,2 @@
 # FIAP - Projetos React Native
+Os projetos desta página contêm apenas os arquivos fontes. Para executar o projeto é necessário criar um novo projeto na sua máquina, com o comando `expo init`, e copiar os arquivos fontes para o seu projeto.
