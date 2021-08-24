@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nome": "IBIS Styles São Paulo Anhembi",
+    "estrelas": 2,
+    "endereco": "Av. Cruzeiro do Sul, 1709 - Santana, São Paulo - SP, 02031-000",
+    "telefone": "(11) 3336-5400",
+    "preco": 170,
+    "imagem": "IBIS"
+  },
+  {
+    "id": 2,
+    "nome": "Comfort Ibirapuera",
+    "estrelas": 3,
+    "endereco": "Av. Sabiá, 825 - Indianópolis, São Paulo - SP, 04515-001",
+    "telefone": "(11) 4673-0255",
+    "preco": 192,
+    "imagem": "IBIRA"
+  },
+  {
+    "id": 3,
+    "nome": "Blue Tree Premium Morumbi",
+    "estrelas": 4,
+    "endereco": "Av. Roque Petroni Júnior, 1000 - Vila Gertrudes, São Paulo - SP, 04707-000",
+    "telefone": "(11) 5187-1200",
+    "preco": 260,
+    "imagem": "MORUMBI"
+  }
+]
